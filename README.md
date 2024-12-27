@@ -1,8 +1,8 @@
-# Noble A. Eluwah - Portfolio Website
+# Portfolio Website - Template
 
 ## Overview
 
-This is a professional portfolio website for **Noble A. Eluwah**, showcasing projects, skills, certifications, and career highlights. The website features a clean, responsive design, smooth animations, and an interactive **Memory Card Game** to entertain users and demonstrate JavaScript skills.
+This is a professional portfolio website **template**, showcasing projects, skills, certifications, and career highlights. The website features a clean, responsive design, smooth animations.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -69,13 +69,9 @@ Then, visit ```http://localhost:8000``` in your browser.
 ├── index.html                # Main HTML file  
 ├── style.css                 # Main stylesheet  
 ├── script.js                 # JavaScript functionality  
-├── memory_game/              # Folder containing the memory game  
-│   ├── memory-game_index.html  
-│   ├── memory-game_style.css  
-│   ├── memory-game_script.js  
 ├── images/                   # Image assets  
-│   ├── header4.jpg  
-│   ├── project1.jpg  
+│   ├── hero-image.jpg  
+│   ├── project.jpg  
 │   ├── ...  
 └── README.md                 # Documentation
   
